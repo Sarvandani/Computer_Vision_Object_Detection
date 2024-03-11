@@ -160,6 +160,6 @@ detect_objects(image_url)
     YOLOv5 <class 'models.common.Detections'> instance
     image 1/1: 2272x2822 8 persons, 2 cars, 5 traffic lights
     Speed: 162.9ms pre-process, 358.4ms inference, 35.8ms NMS per image at shape (1, 3, 544, 640)
-
+The image was downloaded from the following [link](https://www.pexels.com/fr-fr/photo/deux-hommes-qui-courent-sur-une-route-en-beton-1564470/).  
 
 `DISCLAIMER`: I don't warrant this code in any way whatsoever. This code is provided "as-is" to be used at your own risk.
