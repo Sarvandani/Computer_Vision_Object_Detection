@@ -4,10 +4,6 @@
 Here I used a pretrained YOLOv5 model to perform object detection on an image.
 First of all, I installed the following requirements on my Google Colab environment.
 
-`!pip install torch torchvision torchaudio
-!pip install cython
-!pip install -U 'git+https://github.com/facebookresearch/fvcore.git'
-!pip install 'git+https://github.com/facebookresearch/detectron2.git'`
 
 ```python
 !pip install torch torchvision torchaudio
