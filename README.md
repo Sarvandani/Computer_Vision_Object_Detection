@@ -1,5 +1,6 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> 
+ 
 Here we used a pretrained YOLOv5 model to perform object detection on an image.
 First of all, I installed the following requirements on my Google Colab environment.
 
